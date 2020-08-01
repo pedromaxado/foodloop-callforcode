@@ -1,2 +1,3 @@
-# foodloop-callforcode
-Project created for the IBM Call for Code competition.
+## IBM Call for Code - 2020 
+
+![](foodloop/src/assets/img/prototype.png)
